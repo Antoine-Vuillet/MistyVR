@@ -45,6 +45,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
