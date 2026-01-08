@@ -4,6 +4,8 @@ DerivedDataCache/
 Intermediate/
 Saved/
 .vs/
+.git/lfs
+Content/
 
 # OS
 .DS_Store
