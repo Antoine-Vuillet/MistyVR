@@ -9,7 +9,7 @@ The experience also includes **two mini-games** that enrich the gameplay and nar
 
 
 # Lore
-the player is plunged into a coma following recent events. Guided by his cat Misty during his coma, he relives a recent memory of spending an evening with his group of friends around a campfire in the forest. During this dream, he talks and interacts with them until he witnesses a problematic situation. Faced with this revelation, the player must confront a moral dilemma that will jeopardize the relationships within the group.
+The player is plunged into a coma following recent events. Guided by his cat Misty during his coma, he relives a recent memory of spending an evening with his group of friends around a campfire in the forest. During this dream, he talks and interacts with them until he witnesses a problematic situation. Faced with this revelation, the player must confront a moral dilemma that will jeopardize the relationships within the group.
 
 # Technical System
 - Game Engine: Unreal Engine <br>
