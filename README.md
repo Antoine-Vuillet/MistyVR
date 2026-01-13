@@ -18,13 +18,15 @@ The player is plunged into a coma following recent events. Guided by his cat Mis
 
 - Target Platforms: Oculus
 
-
-# Final version
-https://drive.google.com/drive/folders/1yZvKiS8VvT8NFm8yevNYL4k8rNlxZnU0
+# Try it!
+https://karimasoul.itch.io/mistyvr
 
 # Technical Showreel
 
 https://www.youtube.com/watch?v=bvIAjSrV-1o
+
+# Final version
+https://drive.google.com/drive/folders/1yZvKiS8VvT8NFm8yevNYL4k8rNlxZnU0
 
 # License
 This plugin is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
